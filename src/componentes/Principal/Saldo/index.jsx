@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React from "react";
 import estilos from "./Saldo.module.css";
 import { ReactComponent as Icone } from "./icone-olho.svg";

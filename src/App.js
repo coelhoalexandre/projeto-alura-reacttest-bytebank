@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import React, { useState } from "react";
 import estilos from "./App.module.css";
 import { calculaNovoSaldo } from "./utils";

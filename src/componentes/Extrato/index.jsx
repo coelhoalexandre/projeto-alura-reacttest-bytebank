@@ -1,6 +1,8 @@
-import React from 'react';
-import estilos from './Extrato.module.css';
-import Transacoes from './Transacoes';
+/* eslint-disable react/prop-types */
+/* eslint-disable import/no-unresolved */
+import React from "react";
+import estilos from "./Extrato.module.css";
+import Transacoes from "./Transacoes";
 
 export default function Extrato({ transacoes }) {
   return (
